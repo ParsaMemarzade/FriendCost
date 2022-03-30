@@ -11,10 +11,10 @@ It's program that find a Cost of freind group by graph and this two condition:
 
 2 - if A is friends B and B is friends C then A is friends with C.
 
-1<= q <= 16
+1=< q =< 16
 
-1<= n <= 10^5
+1=< n =< 10^5
 
-1<= m <= min(n(n-1)/2, 2*10^5)
+1=< m =< min(n(n-1)/2, 2*10^5)
 
 
